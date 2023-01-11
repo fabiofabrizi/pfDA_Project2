@@ -20,9 +20,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About the Wisconsin Breast Cancer dataset
 
-[![Product Name Screen Shot][product-screenshot]](/images/wisc.webp)
+The dataset dates from 1995 and the features generated for the dataset are from an image of a biopsy of the breast tissue.<br>
+Fine Needle Aspiration (FNA) is a type of biopsy where a thin, hollow needle is used to remove fluid or tissue - in the case of this dataset, tissue.<br>
+Images were taken of the tissue samples, digitized and the features in the dataset describe characteristics of the cell nuclei present in the image.<br>
 
-
+Further explanation of FNA can be found [here](https://www.cancer.org/cancer/breast-cancer/screening-tests-and-early-detection/breast-biopsy/fine-needle-aspiration-biopsy-of-the-breast.html), and a detailed description of the dataset can be found [here](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data?select=data.csv)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -44,70 +46,35 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+1. Clone repository
+2. Open notebook on your own machin
 
 ### Prerequisites
 
-This was developed locally and pushed to github.
-Anaconda was used to install Python and any other libraries or tools were installed using either
-
-* Anaconda
-  ```sh
-  conda install keras-applications
-  ```
-Or
-* Pip
-  ```sh
-  pip install Keras-applications
-  ```
+See included libraries towards the top of the notebook.
 
 ### Installation
 
-1. (List the libraries required here)
+Use either:<br>
+*pip install (package name)*<br>
+or<br>
+*conda install (package name)*
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## Aim
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+To explore some common classifiers and see how parameter optimisation and/or dataset size affects the peformance.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [ ] Import dataset
-- [ ] Analyse dataset
-- [ ] Feature 3
-    - [ ] Nested Feature
-
-See the [open issues](https://github.com/fabiofabrizi/pfDA_Project2/issues) for a full list of proposed features (and known issues).
+## Conclusion
+TLDR?
+A larger dataset improves classifier performance
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
-<!-- CONTRIBUTING -->
-## Conclusions / Future developments
-
-Conclusion here?
-
-
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
@@ -126,21 +93,3 @@ Project Link: [https://github.com/fabiofabrizi/pfDA_Project2](https://github.com
 * [Brian McGinley, ATU]()
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo_name/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo_name/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo_name/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
-[product-screenshot]: images/screenshot.png
