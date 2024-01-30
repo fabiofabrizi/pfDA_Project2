@@ -47,7 +47,7 @@ Further explanation of FNA can be found [here](https://www.cancer.org/cancer/bre
 ## Getting Started
 
 1. Clone repository
-2. Open notebook on your own machin
+2. Open notebook on your own machine
 
 ### Prerequisites
 
