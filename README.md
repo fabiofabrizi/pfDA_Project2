@@ -118,5 +118,7 @@ Project Link: [https://github.com/fabiofabrizi/pfDA_Project2](https://github.com
 ## Acknowledgments
 
 * [Brian McGinley, ATU]()
+* [Tech icons](https://techicons.dev)
+* [Kaggle](https://www.kaggle.com)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
