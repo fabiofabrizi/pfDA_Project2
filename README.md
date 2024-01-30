@@ -16,7 +16,6 @@
 </div>
 
 
-
 <!-- ABOUT THE PROJECT -->
 ## About the Wisconsin Breast Cancer dataset
 
@@ -34,7 +33,13 @@ Further explanation of FNA can be found [here](https://www.cancer.org/cancer/bre
 
 * [Jupyter](https://jupyter.org/)
 * [Numpy](https://numpy.org/)
-* [Pandas](https://pandas.pydata.org/)
+<!--Pandas logo-->
+<div>
+  <a href="https://pandas.pydata.org/">
+    <img src="images/Pandas.svg" alt="Logo" width="80" height="50">
+  </a>
+</div>
+<!---->
 * [Scikit Learn](https://scikit-learn.org/stable/)
 * [Matplotlib](https://matplotlib.org/)
 * [Seaborn](https://seaborn.pydata.org/)
