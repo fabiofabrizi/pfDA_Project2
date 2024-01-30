@@ -30,9 +30,23 @@ Further explanation of FNA can be found [here](https://www.cancer.org/cancer/bre
 
 
 ### Built With
+<div>
+  <a href="https://www.python.org">
+    <img src="images/Python.svg" alt="Logo" width="80" height="50">
+  </a>
+</div>
 
-* [Jupyter](https://jupyter.org/)
-* [Numpy](https://numpy.org/)
+<div>
+  <a href="https://jupyter.org/">
+    <img src="images/Jupyter.svg" alt="Logo" width="80" height="50">
+  </a>
+</div>
+
+<div>
+  <a href="https://numpy.org/">
+    <img src="images/NumPy.svg" alt="Logo" width="80" height="50">
+  </a>
+</div>
 <!--Pandas logo-->
 <div>
   <a href="https://pandas.pydata.org/">
@@ -40,9 +54,17 @@ Further explanation of FNA can be found [here](https://www.cancer.org/cancer/bre
   </a>
 </div>
 <!---->
-* [Scikit Learn](https://scikit-learn.org/stable/)
-* [Matplotlib](https://matplotlib.org/)
-* [Seaborn](https://seaborn.pydata.org/)
+<div>
+  <a href="https://scikit-learn.org/stable/">
+    <img src="images/scikit-learn.svg" alt="Logo" width="80" height="50">
+  </a>
+</div>
+
+<div>
+  <a href="https://matplotlib.org/">
+    <img src="images/Matplotlib.svg" alt="Logo" width="80" height="50">
+  </a>
+</div>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
