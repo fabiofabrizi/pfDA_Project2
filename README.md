@@ -34,37 +34,23 @@ Further explanation of FNA can be found [here](https://www.cancer.org/cancer/bre
   <a href="https://www.python.org">
     <img src="images/Python.svg" alt="Logo" width="80" height="50">
   </a>
-</div>
-
-<div>
   <a href="https://jupyter.org/">
     <img src="images/Jupyter.svg" alt="Logo" width="80" height="50">
   </a>
-</div>
-
-<div>
   <a href="https://numpy.org/">
     <img src="images/NumPy.svg" alt="Logo" width="80" height="50">
   </a>
-</div>
-<!--Pandas logo-->
-<div>
-  <a href="https://pandas.pydata.org/">
+ <a href="https://pandas.pydata.org/">
     <img src="images/Pandas.svg" alt="Logo" width="80" height="50">
   </a>
-</div>
-<!---->
-<div>
   <a href="https://scikit-learn.org/stable/">
     <img src="images/scikit-learn.svg" alt="Logo" width="80" height="50">
   </a>
-</div>
-
-<div>
   <a href="https://matplotlib.org/">
     <img src="images/Matplotlib.svg" alt="Logo" width="80" height="50">
   </a>
 </div>
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -97,8 +83,8 @@ or<br>
 To explore some common classifiers and see how parameter optimisation and/or dataset size affects the peformance.
 
 ## Conclusion
-TLDR?
-A larger dataset improves classifier performance
+A larger dataset improves classifier performance. This is because with more training data, the model learns the distribution of the real data better.
+The model accuracy is improved
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
