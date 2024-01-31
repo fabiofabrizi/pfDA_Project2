@@ -53,6 +53,13 @@ Further explanation of FNA can be found [here](https://www.cancer.org/cancer/bre
 ### Prerequisites
 
 See included libraries towards the top of the notebook.
+These are:<br>
+-Numpy<br>
+-Pandas<br>
+-Scikit-learn<br>
+-Fitter<br>
+-Matplotlib<br>
+-Seaborn<br>
 
 ### Installation
 
@@ -68,7 +75,7 @@ or<br>
 <!-- USAGE EXAMPLES -->
 ## Aim
 
-To explore some common classifiers and see how parameter optimisation and/or dataset size affects the peformance.
+To explore some common classifiers and see how parameter optimisation and/or dataset size affects the peformance of the classifier.
 
 ## Conclusion
 A larger dataset improves classifier performance. This is because with more training data, the model learns the distribution of the real data better.
