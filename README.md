@@ -31,24 +31,12 @@ Further explanation of FNA can be found [here](https://www.cancer.org/cancer/bre
 
 ### Built With
 <div>
-  <a href="https://www.python.org">
     <img src="images/Python.svg" alt="Logo" width="80" height="50">
-  </a>
-  <a href="https://jupyter.org/">
     <img src="images/Jupyter.svg" alt="Logo" width="80" height="50">
-  </a>
-  <a href="https://numpy.org/">
     <img src="images/NumPy.svg" alt="Logo" width="80" height="50">
-  </a>
- <a href="https://pandas.pydata.org/">
     <img src="images/Pandas.svg" alt="Logo" width="80" height="50">
-  </a>
-  <a href="https://scikit-learn.org/stable/">
     <img src="images/scikit-learn.svg" alt="Logo" width="80" height="50">
-  </a>
-  <a href="https://matplotlib.org/">
     <img src="images/Matplotlib.svg" alt="Logo" width="80" height="50">
-  </a>
 </div>
 
 
